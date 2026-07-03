@@ -86,7 +86,7 @@ const FavouriteList = () => {
               </div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">No favourites yet!</h3>
               <p className="text-gray-500 mb-6">Start exploring and save the homes you love.</p>
-              <Link to="/" className="bg-gradient-to-r from-purple-600 to-pink-500 hover:from-purple-700 hover:to-pink-600 text-white font-bold py-3 px-6 rounded-xl shadow-lg shadow-purple-500/30 transform transition duration-200 hover:-translate-y-0.5">
+              <Link to="/allhomes" className="bg-gradient-to-r from-purple-600 to-pink-500 hover:from-purple-700 hover:to-pink-600 text-white font-bold py-3 px-6 rounded-xl shadow-lg shadow-purple-500/30 transform transition duration-200 hover:-translate-y-0.5">
                 Explore Homes
               </Link>
             </div>
